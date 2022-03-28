@@ -1,0 +1,9 @@
+[0323/135007.214:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/135007.217:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0325/050106.726:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 23
+[0325/050107.224:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 33
+[0325/050111.632:ERROR:device_event_log_impl.cc(208)] [05:01:11.632] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0325/050214.878:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0325/050214.878:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0325/050215.150:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0325/050215.165:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
