@@ -7,3 +7,10 @@
 [0325/050214.878:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0325/050215.150:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0325/050215.165:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0329/030019.128:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0329/030155.040:ERROR:device_event_log_impl.cc(208)] [03:01:55.040] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0329/030240.839:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0329/030240.854:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0329/030240.897:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 37
+[0329/030241.873:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0329/030241.874:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}

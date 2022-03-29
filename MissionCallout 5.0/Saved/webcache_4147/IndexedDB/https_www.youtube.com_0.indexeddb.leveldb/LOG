@@ -1,5 +1,8 @@
-2022/03/25-05:02:07.199 2aa0 Reusing MANIFEST G:/unreal 5 projects/MISSION_CALLOUT/Mission_Callout/MissionCallout 5.0/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/25-05:04:09.356 7f0 Level-0 table #5: started
-2022/03/25-05:04:09.444 7f0 Level-0 table #5: 1154 bytes OK
-2022/03/25-05:04:09.509 7f0 Delete type=0 #3
-2022/03/25-05:04:09.510 7f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/29-03:02:58.545 3ac8 Reusing MANIFEST F:/unreal 5 projects/FYP University/MissionCallout 5.0/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/29-03:02:58.546 3ac8 Recovering log #4
+2022/03/29-03:02:58.546 3ac8 Reusing old log F:/unreal 5 projects/FYP University/MissionCallout 5.0/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/03/29-03:24:02.441 162c Level-0 table #8: started
+2022/03/29-03:24:02.441 162c Level-0 table #8: 0 bytes OK
+2022/03/29-03:24:02.480 162c Delete type=0 #4
+2022/03/29-03:24:02.480 162c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/29-03:24:02.480 162c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
